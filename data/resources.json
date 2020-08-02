@@ -1,47 +1,46 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Join the commuity, learn new things!",
+  "title": "DevFest San Salvador 2019",
+  "description": "¡Únete a la comunidad y aprendamos juntos sobre tecnología!",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "keywords": "evento, gdg, gde, devfest, google, programacion, android, chrome, polymer, desarrolladores, web, cloud, android, ios, firebase",
+  "dates": "Sábado 23 de Noviembre de 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
-  "partnershipResources": "Partnership Resources",
-  "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
-  "position": "Position",
-  "country": "Country",
-  "time": "Time",
+  "share": "Compartir",
+  "followUs": "Síguenos",
+  "emailUs": "Escríbenos",
+  "partnershipResources": "Información sobre Partnerships",
+  "eventResources": "Recursos del Evento",
+  "buyTicket": "Regístrate",
+  "signIn": "Iniciar Sesión",
+  "signOut": "Cerrar Sesión",
+  "viewHighlights": "Contenido Destacado",
+  "offlineMessage": "Este sitio funciona fuera de línea.",
+  "cachingComplete": "¡Carga completa! Si visitas el sitio fuera de línea en el futuro podrás usarlo.",
+  "newVersionAvailable": "Una nueva versión está disponible.",
+  "refresh": "Refrescar",
+  "position": "Posición",
+  "country": "País",
+  "time": "Hora",
   "faq": "/data/faq.md",
   "coc": "/data/coc.md",
   "footer": {
-    "blog": "Blog"
+    "blog": "Sitio Web"
   },
   "mySchedule": {
-    "title": "My Schedule",
-    "browseSession": "Browse sessions"
+    "title": "Mi Agenda",
+    "browseSession": "Mira las charlas y talleres"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Acerca De",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG San Salvador",
+          "url": "https://gdgsansalvador.dev",
           "newTab": true
         },
         {
-          "name": "GDG",
+          "name": "Programa GDG",
           "url": "https://developers.google.com/groups/",
           "newTab": true
         },
@@ -49,158 +48,122 @@
           "name": "DevFest",
           "url": "https://devfest.withgoogle.com/",
           "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Recursos",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "Propuesta de Patrocinio",
+          "url": "http://bit.ly/SponsorshipGDGSSWTM",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Event Resources",
-      "links": [
-        {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "name": "Información Sobre Patrocinio",
+          "url": "mailto:info@gdgsansalvador.dev",
           "newTab": true
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "https://forms.gle/WT1LLxn6qiqgkB4t5",
           "newTab": true
         },
         {
-          "name": "FAQs",
+          "name": "Preguntas Frecuentes",
           "url": "/faq/",
           "newTab": false
         }
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "codeOfConduct": "Code of Conduct",
+  "subscribeNote": "¡No te vamos a enviar spam, solamente las últimas noticias y actualizaciones!",
+  "codeOfConduct": "Código de Conducta",
   "codeOfConductBlock": {
     "organization": "DevFest",
-    "form": "https://bit.ly/2RstTJ8",
+    "form": "http://bit.ly/gdgsansal-cocv",
     "contacts": [
-      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
-      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
+      "Oscar Salguero, Organizador, info@gdgsansalvador.dev"
     ]
   },
   "aboutBlock": {
-    "title": "About",
+    "title": "Sobre DevFest",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "Los DevFest son una verdadera celebración de la comunidad tecnológica y queremos que todas la comunidades activas de Desarrolladores de El Salvador participen.  Durante el evento, tendremos charlas por expertos en desarrollo de software locales e Internacionales, talleres para aprender a usar diversas tecnologías, etc.",
+        "label": "Conoce un poco más acerca de los DevFest",
+        "link": "https://www.youtube.com/watch?v=hTJ_-MxHKMY"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "Descrito por muchos como 'un mini Google I/O', los DevFest organizados por las comunidades GDG son los mejores lugares para compartir el conocimiento y aprender sobre nuevas tecnologías en un ambiente fenomenal.",
+        "label": "Mira el resumen de nuestro DevFest San Salvador 2019",
+        "youtubeId": "CKvi3sT3gU8"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Asistentes",
+        "number": "225"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Charlas",
+        "number": "20"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "50"
+        "label": "Talleres",
+        "number": "8"
       },
       "tracks": {
-        "label": "Tracks",
+        "label": "Salones (Tracks)",
         "number": "4"
       }
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "title": "Registrate",
+    "ticketsDetails": "La entrada es gratis, pero debes registrarte en nuestro sitio en Meetup. Cupo limitado.",
+    "soldOut": "Se ha llenado el cupo!",
+    "notAvailableYet": "Aun No Disponible",
+    "save": "¡Compra hoy y ahorra ${discount}%!"
   },
   "partnersBlock": {
-    "title": "Partners",
-    "button": "Become a partner",
+    "title": "¡Conviértete en Patrocinador!",
+    "button": "Patrocinar el DevFest",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "¡Conviértete en Patrocinador!",
+      "submitLabel": "Enviar",
+      "fullName": "Nombre Completo",
+      "companyName": "Nombre de la Empresa"
     },
-    "toast": "We will contact you soon!"
+    "toast": "¡Gracias, estarémos en contacto pronto!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Videos Destacados",
     "callToAction": {
-      "label": "See all videos",
+      "label": "Ver todos los Videos",
       "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
     }
   },
   "blog": {
-    "published": "Published",
-    "suggested": "Up next"
+    "published": "Publicado",
+    "suggested": "Siguiente"
   },
   "latestPostsBlock": {
-    "title": "The latest news",
+    "title": "Las Últimas Noticias",
     "callToAction": {
-      "label": "View all stories",
+      "label": "Ver todas las publicaciones",
       "link": "/blog/"
     }
   },
   "speakers": {
-    "skills": "Skills",
-    "previousYears": "Years",
-    "previousYear": "Year"
+    "skills": "Temas",
+    "previousYears": "Años",
+    "previousYear": "Año"
   },
   "speakersBlock": {
     "title": "Speakers",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Ver todos los speakers",
       "link": "/speakers/"
     }
   },
@@ -212,87 +175,87 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "Galería de Fotos",
+    "description": "Mira algunas de las fotos destacadas de los eventos de GDG San Salvador en 2019. En este álbum tambien se publicarán las fotos de nuestro DevFest.",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "Ver todas las fotos",
+      "link": "https://photos.app.goo.gl/MGK1fAKasqwVf5s57"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Ubicación"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Entérate de noticias y actualizaciones importantes relacionadas al DevFest",
+      "label": "Suscríbete"
     },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
-    "firstName": "First Name",
-    "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "An error has occurred. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "yourEmail": "Correo Electrónico",
+    "emailAddress": "Correo Electrónico",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "formTitle": "Obtén las últimas noticias sobre GDG San Salvador y sus eventos en tu bandeja de entrada.",
+    "emailRequired": "Por favor introduce una dirección de correo electrónico valida.",
+    "subscribe": "Suscribirme",
+    "subscribed": "Suscrito",
+    "close": "Cerrar",
+    "generalError": "Ha ocurrido un error. Por favor intenta de nuevo más tarde.",
+    "toast": "¡Te has suscrito exitosamente!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google es conocido en todo el mundo. Todos buscan con Google, navegan con Google Maps y se escriben por Gmail... Para el usuario final, estos son servicios que simplemente y sencillamente funcionan, pero no para nosotros. Los desarrolladores vemos mucho más: el código fuente, lenguaje de programación, APIs, problemas de escalabilidad, UI, UX, Graphic Design, tech stacks complejos, algoritmos, etc... y de eso se trata el GDG.<br><br>Nuestro objetivo es organizar un espacio y un canal para conectar a los mejores expertos de la industria con la audiencia de San Salvador y sus alrededores, para impulsar el desarrollo personal y profesional de personas de todas las edades mediante el uso apropiado de la tecnología."
   },
   "schedule": {
-    "saveSessionsSignedOut": "Sign in to save sessions"
+    "saveSessionsSignedOut": "Inicia sesión para guardar sesiones"
   },
   "sessionDetails": {
-    "contentLevel": "Content level",
-    "viewPresentation": "View presentation",
-    "viewVideo": "View video",
+    "contentLevel": "Nivel del contenido",
+    "viewPresentation": "Ver presentación",
+    "viewVideo": "Ver video",
     "speakers": "Speakers"
   },
   "speakerDetails": {
-    "sessions": "Sessions"
+    "sessions": "Sesiones"
   },
   "notifications": {
-    "default": "Enable notifications",
-    "enabled": "We will miss you but you can unsubscribe anytime",
-    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
-    "subscribe": "Subscribe",
-    "unsubscribe": "Unsubscribe",
+    "default": "Habilitar las notificaciones",
+    "enabled": "Te vamos a extrañar. Puedes volver a habilitar las notificaciones cuando quieras.",
+    "blocked": "No podemos enviarte notificaciones. Por favor habilita las notificaciones en tu navegador",
+    "subscribe": "Suscribirse",
+    "unsubscribe": "Desuscribirse",
     "enable": {
-      "label": "Enable",
+      "label": "Habilitar",
       "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
     },
     "toast": {
-      "title": "Open"
+      "title": "Abrir"
     }
   },
   "aboutOrganizerBlock": {
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizadores",
+        "description": "El evento DevFest San Salvador 2019 es organizado por <a href='http://gdgsansalvador.dev' target='_blank'>GDG San Salvador</a> con el apoyo de las comunidades de desarrolladores más activas de El Salvador: Horchata JS, Android Developers SV, NodeSchools San Miguel y GDG La Libertad.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Abrir página de equipo",
           "link": "/team"
         }
       },
       {
-        "title": "What is a GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
+        "title": "¿Qué es un GDG?",
+        "description": "Un grupo de desarrolladores de Google es una comunidad de desarrolladores de software de todo nivel de experiencia organizada por voluntarios que crean proyectos interesantes y llevan a cabo eventos para reunirse y compartir sus experiencias y conocimiento sobre las tecnologías de Google y otros.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Ver más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
       },
       {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "title": "¿Qué es un DevFest?",
+        "description": "Los DevFests son eventos llevados a cabo por comunidades de desarrolladores y Grupos de Desarrolladores de Google alrededor del Mundo.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Ver más",
           "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
@@ -300,21 +263,21 @@
     ]
   },
   "signInDialog": {
-    "alreadyHaveAccount": "You already have an account",
-    "alreadyUsed": "You've already used",
+    "alreadyHaveAccount": "Ya tienes una cuenta",
+    "alreadyUsed": "Ya has usado este recurso",
     "signInToContinue": {
-      "part1": "Sign in with",
-      "part2": "to continue."
+      "part1": "Inicia sesión con",
+      "part2": "para continuar."
     }
   },
   "filters": {
-    "title": "Filters",
-    "results": "Results",
-    "tags": "Tags",
-    "complexity": "Complexity",
-    "clear": "Clear all"
+    "title": "Filtros",
+    "results": "Resultados",
+    "tags": "Etiquetas",
+    "complexity": "Compleidad",
+    "clear": "Limpiar todos"
   },
   "addToHomeScreen": {
-    "cta": "Add to Home Screen"
+    "cta": "Agregar a Pantalla de Inicio"
   }
 }
